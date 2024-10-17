@@ -1,0 +1,17 @@
+﻿calişma Saati ,Ders Adi  ,Devam Orani ,Gecmiş Not Ortalamasi ,Başari Durumu
+            3 ,Matematik ,Duşuk       ,Yuksek                ,Kaldi
+            4 ,Matematik ,Orta        ,Orta                  ,Kaldi
+            5 ,Edebiyat  ,Duşuk       ,Yuksek                ,Gecti
+            5 ,Edebiyat  ,Yuksek      ,Duşuk                 ,Gecti
+            6 ,Kimya     ,Orta        ,Orta                  ,Gecti
+            6 ,Edebiyat  ,Orta        ,Duşuk                 ,Gecti
+            7 ,Kimya     ,Orta        ,Orta                  ,Gecti
+            7 ,Matematik ,Yuksek      ,Orta                  ,Kaldi
+            8 ,Matematik ,Yuksek      ,Orta                  ,Gecti
+            8 ,Matematik ,Duşuk       ,Orta                  ,Kaldi
+            9 ,Kimya     ,Yuksek      ,Orta                  ,Gecti
+            9 ,Edebiyat  ,Yuksek      ,Duşuk                 ,Gecti
+           10 ,Kimya     ,Duşuk       ,Yuksek                ,Gecti
+           10 ,Edebiyat  ,Yuksek      ,Yuksek                ,Gecti
+           11 ,Edebiyat  ,Yuksek      ,Duşuk                 ,Gecti
+           12 ,Kimya     ,Orta        ,Duşuk                 ,Gecti
